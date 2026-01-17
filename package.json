@@ -1,0 +1,31 @@
+{
+  "name": "@10xly/strict-equals",
+  "version": "1.0.1",
+  "description": "Strict equal.",
+  "keywords": [
+    "me"
+  ],
+  "homepage": "https://github.com/10xly/strict-equals#readme",
+  "bugs": {
+    "url": "https://github.com/10xly/strict-equals/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xly/strict-equals.git"
+  },
+  "license": "MIT",
+  "author": "10xly",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@is-(unknown)/is-nan": "^1.0.0",
+    "array-get-member": "^1.0.3",
+    "es-logical-and-operator": "^1.0.0",
+    "is-negative-zero": "^2.0.3",
+    "object-intrinsic-ai": "^1.0.1",
+    "positive-zero": "^3.0.0"
+  }
+}
